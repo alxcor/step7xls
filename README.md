@@ -41,6 +41,7 @@ A menu named Spares Web is added after Home tab, in Excel Ribbon.
 To access the VBA code press ALT-F11 in Excel.
 
 Versions:
+- v1.4.6 / 09.11.2024 Read MLFB correction: due to changes on IndustryMall website
 - v1.4.5 / 15.05.2024
  New options related to a spare-part successor check
  New ribbon buttons for direct access to spares, successors, manuals, etc.
